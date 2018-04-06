@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"Venci",
+        "email":"vencislav@abv.bg"
+    },
+    {
+        "id":2,
+        "name":"Rado",
+        "email":"radoslav@abv.bg"
+    },
+    {
+        "id":3,
+        "name":"Mitko",
+        "email":"mitkoton@abv.bg"
+    }
+]
